@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'appnodeelton'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_097F0DF44FB641F6B01984A0B1B66FF9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D4F62860B0D74924A7041375D98EE16C }}
           package: .
